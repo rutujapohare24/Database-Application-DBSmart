@@ -46,7 +46,7 @@ For a detailed explanation of the project, including code walkthroughs, analysis
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/supermarket-analytics.git
+   git clone (https://github.com/rutujapohare24/Database-Application-DBSmart.git)
    ```
 
 2. **Database Setup:**
