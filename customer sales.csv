@@ -1,0 +1,151 @@
+Cust_id,first_name,last_name,Cust_address,Cust_state,Cust_postcode,Invoice_no,Invoice_date,Invoice_time,Line_no,Quantity,Item_no,Item_type,Item_price,Discount
+X674,Nerti,Pentlow,849 Shasta Trail,Colorado,81010,ZDTR827NO,17/04/2021,10:09 AM,D52,5,FZ349,Soup - Campbellschix Stew,64.4,9
+D570,Jordan,Dreier,1 Summit Avenue,Missouri,65211,BMXG722YG,27/09/2021,11:10 PM,B16,10,WG897,Bacardi Breezer - Tropical,95.3,6
+J883,Ferdinanda,Vasenkov,589 Blue Bill Park Point,Georgia,30336,MQBW148KK,2/9/2021,7:33 PM,J01,8,FA271,"Pasta - Spaghetti, Dry",93,12
+N854,Laryssa,Lidstone,3 Eliot Terrace,Texas,75353,VPLT986VP,9/7/2021,9:01 PM,L29,1,EX622,Carrots - Jumbo,13.4,8
+C465,Bobette,Philipson,29801 Hagan Place,California,92612,RMTS932JX,12/5/2021,11:02 AM,Z46,8,CN516,Hold Up Tool Storage Rack,6.4,12
+L495,Sada,Stokell,8538 Westend Avenue,Ohio,43240,TVPC770BD,7/7/2021,9:08 PM,J71,3,AW555,Island Oasis - Sweet And Sour Mix,67.9,15
+S705,Kendre,MacCallam,601 Homewood Street,Georgia,30195,JKLP239FP,9/8/2021,9:46 AM,F51,4,NE918,Wheat - Soft Kernal Of Wheat,33.4,7
+H204,Shell,Lefley,09 Mcbride Trail,Ohio,44505,QTMQ907GK,29/08/2021,9:56 PM,D67,5,RI334,"Pesto - Primerba, Paste",40.9,9
+D343,Benedikt,Barnes,3749 Corry Place,North Carolina,28284,JQOG797IZ,8/3/2021,12:04 PM,N32,4,TK053,Tea Leaves - Oolong,31.4,14
+N479,Say,Longfellow,15881 Caliangt Parkway,Georgia,30245,CWNE949DG,9/11/2021,8:46 PM,Z40,1,ER210,Soup Campbells,67,15
+Y296,Xenos,Wix,1 Donald Road,Georgia,31405,FCQZ939LJ,30/08/2021,8:28 PM,J88,2,MK583,Bacardi Limon,6.6,7
+F285,Zacherie,Virr,6424 Maryland Junction,Maryland,21265,NZMS293HX,26/08/2021,9:26 PM,O85,2,DP121,Cheese - Cheddarsliced,30.1,15
+Z460,Frederico,MacAndie,10274 Memorial Point,Texas,77250,LVHI200OU,8/10/2021,11:16 PM,L87,7,JU264,Tea Leaves - Oolong,18.5,9
+W398,Lyndsay,Lauritsen,43886 Randy Hill,New York,14215,POAS501ZK,25/03/2021,2:19 PM,P93,5,HK080,Wine - Ice Wine,1.2,6
+W867,Gloriana,Hallatt,458 Sutherland Lane,Washington,98907,RIBM169YX,23/09/2021,6:08 PM,H95,5,HA556,Coffee - Hazelnut Cream,26.6,14
+E459,Sarajane,Holligan,20381 Saint Paul Court,Nebraska,68134,PKZF763CM,23/05/2021,10:58 AM,G26,6,WR690,Anchovy In Oil,63,10
+T702,Celina,Breazeall,30414 Northland Point,New York,10009,SCMG823DF,30/11/2021,8:22 PM,I13,7,IG667,Scotch - Queen Anne,8.5,5
+Z171,Margareta,Booler,3778 Mandrake Circle,Colorado,80255,OYXD196CD,27/07/2021,8:39 AM,S16,3,CR720,"Chocolate - Milk, Callets",75.9,14
+M236,Cristine,Linggard,705 Toban Point,Florida,32505,MYSK777VK,6/4/2021,7:19 PM,W66,3,PY803,Pork Salted Bellies,20.7,12
+T808,Bibby,Kleinmintz,76636 Pankratz Alley,Minnesota,55487,PFJT204XH,25/07/2021,8:12 PM,V62,4,JI847,Tofu - Soft,32.2,9
+X128,Violetta,Losselyong,714 Toban Hill,California,94207,YBDQ108MR,26/05/2021,6:59 PM,Z71,2,FE984,Wine - Jafflin Bourgongone,21.8,7
+V228,Ruthann,Rosa,196 Grover Road,District of Columbia,20010,PBYO238HN,19/06/2021,12:39 PM,M83,10,YD175,Cilantro / Coriander - Fresh,22.4,10
+S718,Christabel,Cullingford,51042 Tomscot Crossing,Texas,76505,KZQJ046WW,26/01/2021,12:06 PM,X74,9,DY365,"Wine - White, Concha Y Toro",21.7,13
+Z404,Svend,Omond,49 Melby Road,New York,10105,GOTS294TG,6/7/2021,6:45 PM,B84,3,AO920,Pate - Liver,10.9,12
+V583,Glenda,Cogdon,8 Sunnyside Street,District of Columbia,20551,DIKW954QU,2/11/2021,4:16 PM,H89,3,ZB192,Wine - Sicilia Igt Nero Avola,96.7,5
+C155,Sibella,Benneton,0032 Reindahl Trail,Pennsylvania,19495,ALTP092SU,9/4/2021,1:30 PM,U00,6,JU906,Chips - Doritos,20.8,9
+C245,Hilliary,Domeney,5783 Kinsman Circle,Ohio,43635,SHDI741HM,19/05/2021,9:12 AM,Q69,1,EG310,Flour Dark Rye,26.3,6
+D817,Willem,Krollmann,3 Mockingbird Junction,Alabama,36622,BOMP685GG,5/5/2021,1:06 PM,V90,6,RK165,Cake Slab,17.6,15
+I244,Catlee,Derrick,737 Lunder Street,Texas,88535,ACWT842HC,7/2/2021,1:17 PM,U37,5,AR412,Jagermeister,26.9,8
+F773,Othilie,Arnout,7781 Loftsgordon Street,Washington,98140,RCJL898WW,7/10/2021,11:28 AM,O65,6,OS271,Nori Sea Weed - Gold Label,67.8,13
+Z246,Trixy,Heinz,365 Hayes Point,California,91210,OTJD276SA,25/08/2021,9:17 PM,J60,9,YL225,Steel Wool,30.9,6
+L337,Emelina,Marfell,53 Waywood Parkway,Georgia,30380,GYSH241BI,15/07/2021,9:30 AM,M27,1,OG434,Rice Paper,45.7,8
+H161,Kelli,Kermitt,89 Fordem Center,Ohio,45249,PKED124SG,31/10/2021,1:17 PM,Q28,7,VC122,Bread - Hamburger Buns,96,14
+E738,Siward,Hayland,56903 Eagle Crest Drive,California,92717,BFHM145TT,21/05/2021,7:47 PM,C08,8,JW697,Wine - Niagara Peninsula Vqa,92.5,12
+X550,Fairfax,Grundon,29858 Gina Street,Georgia,30311,ZOOG243NG,25/05/2021,1:58 PM,F94,9,TK191,Bag Stand,25.3,9
+Y892,Herb,Zieme,96741 Crest Line Junction,Minnesota,55579,YAQB507OJ,17/10/2021,10:07 AM,J89,7,NP374,"Chicken - Diced, Cooked",58,10
+R190,Reynold,Reveland,9 Golf View Crossing,California,94177,RGLE065UW,13/11/2021,12:17 PM,R80,5,XJ298,"Wine - Red, Metus Rose",67.9,11
+K898,Mariska,Calwell,44052 Manufacturers Court,New York,11388,YNYV106YN,24/03/2021,3:42 PM,P88,3,KA830,"Coconut - Shredded, Unsweet",71.4,5
+R172,Koren,Caulier,18 Homewood Road,Maryland,21265,ONHG184TV,20/01/2021,2:44 PM,W33,5,MG956,Beef - Cow Feet Split,12.1,6
+R332,Abbey,Clarabut,85747 Hollow Ridge Trail,Nevada,89155,VJKN282KE,4/5/2021,12:50 PM,E21,3,GO924,"Yogurt - Cherry, 175 Gr",23.6,10
+B667,Lia,Satchel,92059 Monterey Trail,District of Columbia,20392,HNAU396KS,13/08/2021,11:29 PM,K33,6,XN972,Arizona - Plum Green Tea,38.1,6
+M051,Philippe,Fromont,14249 Hoard Way,Illinois,62711,UEDI407AX,16/10/2021,6:34 PM,S90,8,MM037,Berry Brulee,53.1,7
+F537,Lindie,Richards,353 Aberg Road,Illinois,60691,GGJV974WO,15/03/2021,11:53 PM,H95,1,BH681,"Asparagus - White, Canned",54.2,12
+L953,Sheree,Olfert,2958 Fremont Junction,Florida,33906,PPPB750XF,20/01/2021,9:02 AM,S80,8,BJ579,Cheese - Comte,1.5,9
+F996,Berke,Gillopp,39 Golf Center,Ohio,44130,VBJE594BS,9/9/2021,7:40 PM,N55,8,UA281,Ostrich - Prime Cut,2.6,12
+Z262,Graehme,Curle,61 New Castle Road,Alaska,99512,HIOS107KG,27/10/2021,10:43 AM,E70,7,DB501,Bread Crumbs - Japanese Style,93.7,14
+G439,Ginnifer,Gilmartin,89366 Crowley Junction,Indiana,46207,DWAT473HU,10/11/2021,9:56 AM,Q55,8,OV106,"Juice - Orange, 341 Ml",44.4,15
+R825,Robinson,Surby,42 Holy Cross Hill,Arizona,85083,GRBD716FE,29/08/2021,4:07 PM,R68,2,EF558,Lemon Pepper,89.4,7
+S390,Norri,Jeskin,6556 Forest Dale Plaza,Tennessee,37450,JGSO759QG,27/11/2021,9:01 PM,L22,10,EE729,Curry Paste - Madras,51.8,9
+L412,Rancell,Bunstone,44103 Kings Park,Minnesota,55458,WRCQ287ZR,7/5/2021,5:50 PM,U75,5,AO791,"Jam - Blackberry, 20 Ml Jar",2.5,11
+M699,Crysta,McKelvey,000 Dottie Crossing,Florida,32412,JGWV617WS,3/8/2021,9:03 PM,Q00,8,JY937,"Lamb - Leg, Bone In",7.7,9
+D097,Susette,Itzcovich,0821 Forest Run Junction,Minnesota,55572,PDHA066QF,19/07/2021,7:52 PM,G15,3,BD890,Soup - Campbells - Tomato,58.6,10
+Z509,Douglass,Armistead,4 Loftsgordon Plaza,Missouri,63126,TOHF713EE,1/2/2021,7:06 PM,C73,3,JO194,Cream - 18%,87.1,10
+S331,Stephanus,Ogan,3 Judy Trail,Arizona,85099,LUKO848TI,20/06/2021,7:01 PM,G38,5,WF636,Wine - Casillero Del Diablo,56.9,8
+J002,Vin,Lis,994 Meadow Ridge Plaza,California,90071,RERW849JP,21/06/2021,3:22 PM,H32,7,RI326,Wine - Crozes Hermitage E.,47.7,7
+V377,Gerrie,Hansbury,3 Vera Plaza,California,91131,GPBX085AO,8/2/2021,5:46 PM,Q88,3,SG928,Wine - Chateau Timberlay,84.7,13
+I287,Katie,Mounter,71409 Drewry Lane,Tennessee,38308,KWBD455AY,20/08/2021,3:15 PM,Q81,2,XG924,"Pasta - Cappellini, Dry",18.3,15
+H555,Gabbie,Matokhnin,75645 Amoth Lane,California,93715,NJQR660KZ,6/8/2021,7:30 PM,Z66,8,ZR180,Tea - Mint,18.8,12
+D986,Carny,O'Neal,5 Montana Trail,Mississippi,39216,ISPA926XP,20/04/2021,12:56 PM,Y64,8,LE079,Wine - Dubouef Macon - Villages,93,14
+S519,Tess,Wrathmall,32022 Esch Park,Illinois,61110,ZOTZ783UV,10/11/2021,8:31 PM,B30,7,KB286,Carbonated Water - White Grape,65.2,11
+G551,Kelly,Slimm,6634 Hanover Center,Florida,33742,MUJY983WS,20/02/2021,6:15 PM,R83,7,ZK754,Banana - Leaves,4.3,5
+J046,Georas,Scohier,2694 Raven Place,Oklahoma,73129,LHZP979IV,7/3/2021,10:36 AM,W55,1,TE801,"Bread - White, Sliced",47.8,11
+Z149,Drusi,McArthur,81790 Rockefeller Trail,Illinois,61635,LZZO433HY,24/06/2021,8:39 PM,D33,4,KY105,"Red Snapper - Fresh, Whole",18.9,5
+P153,Giacopo,Neeves,1946 Northridge Crossing,Texas,78278,NKWV551LJ,14/03/2021,9:26 AM,I08,1,SM970,Quinoa,55.3,10
+R406,Cobbie,Marians,34397 Killdeer Park,District of Columbia,20073,XTES432MI,10/9/2021,10:54 AM,F24,10,EN548,Muffin Hinge 117n,98,7
+L485,Arly,Rawdales,45296 Mayfield Court,Florida,33405,HVYJ032IC,22/05/2021,2:12 PM,O48,10,MT843,Pepper - Jalapeno,4.7,12
+E606,Arty,Priestner,15879 Bonner Junction,Michigan,49018,XZKP260IQ,24/08/2021,6:17 PM,Q01,8,DL154,Cheese - Marble,69.1,15
+Y252,Winna,Stimpson,97528 4th Plaza,Arizona,85010,GNMQ070WN,21/05/2021,9:01 PM,B89,2,FE796,Chips - Doritos,85.7,13
+J471,Katharina,Allpress,7549 Red Cloud Street,Alaska,99512,IREU576PQ,12/7/2021,1:58 PM,X12,7,LX886,Sweet Pea Sprouts,42.2,15
+F902,Antonietta,Lammers,56159 Village Green Parkway,Texas,79950,UXZQ490WI,10/6/2021,4:23 PM,F47,8,MI230,Carrots - Jumbo,68.7,7
+C602,Masha,Marco,971 Schiller Avenue,Connecticut,6726,WEQS596HL,6/2/2021,7:52 PM,J98,3,CR553,"Beef - Rib Roast, Cap On",34.6,5
+E305,Arabela,Dumbelton,35 4th Way,Pennsylvania,16534,ODMZ493XT,13/07/2021,6:28 PM,J48,10,BM174,Beef Ground Medium,67.1,13
+C608,Ann,Cavendish,3 Westridge Crossing,Texas,77065,HFBE239RR,16/09/2021,7:54 PM,N08,1,TM544,Bay Leaf Fresh,4.7,10
+S289,Tannie,Pattrick,024 Donald Parkway,Michigan,48275,IFOF739FL,26/08/2021,6:15 PM,T85,4,QI271,"Juice - Apple, 1.36l",42.1,7
+V733,Cecelia,Warry,4 Pawling Terrace,Illinois,60681,MMVA961NC,8/6/2021,5:27 PM,I89,5,JO713,Island Oasis - Strawberry,38.8,5
+D069,Consalve,Mechell,834 Arrowood Pass,Delaware,19725,XMRG378KJ,14/10/2021,4:35 PM,J96,10,JO536,Compound - Rum,30.6,10
+B605,Galen,Versey,88 3rd Drive,Washington,98042,RCTF429OB,11/6/2021,4:33 PM,H40,4,QF493,Triple Sec - Mcguinness,7,14
+A731,Gill,Fitzhenry,49601 Russell Way,Tennessee,37205,HJRZ858TU,12/5/2021,8:36 PM,M31,10,OL906,"Pepper - White, Ground",99.4,8
+G545,Joycelin,Farlane,63 Schiller Junction,Florida,34108,MUOT745KC,13/06/2021,6:54 PM,I17,5,HB317,"Sprite, Diet - 355ml",36.6,14
+E976,Donna,Bahls,029 2nd Place,Oklahoma,73071,LUYY780NE,30/03/2021,4:51 PM,J81,7,SA732,Lamb Shoulder Boneless Nz,36,11
+Y303,Claudius,Scoines,5 Fordem Place,Texas,76210,YRAH827BR,15/01/2021,1:45 PM,S75,10,TY030,"Hickory Smoke, Liquid",29.9,9
+R031,Norry,Manvelle,58 Linden Street,Arizona,85710,GWUJ402UF,20/10/2021,1:52 PM,C93,3,PG292,Apple - Royal Gala,92.7,13
+G733,Clywd,Pallaske,0 Jackson Court,Wisconsin,53215,WFXG942WF,24/07/2021,6:22 PM,Z52,9,XO639,Langers - Ruby Red Grapfruit,76.1,8
+U798,Jacob,Jaquin,5 Bartelt Center,Oklahoma,73124,UUHI151XU,9/3/2021,2:42 PM,B43,9,VQ014,"Wine - Red, Mosaic Zweigelt",70.3,15
+I160,Ajay,Rippen,20 School Lane,Ohio,45249,RWMN932RC,16/02/2021,9:42 PM,S65,3,JV065,Hold Up Tool Storage Rack,76.8,8
+Z288,Levey,Bulfit,6 Pankratz Hill,California,90398,XWQN651EC,15/10/2021,2:30 PM,T94,2,RW787,Juice - Lagoon Mango,80.9,12
+J534,Calhoun,Acland,8 Lakeland Drive,New Jersey,8603,GFYM292XS,12/6/2021,8:12 PM,U10,2,IP172,Wine - Barolo Fontanafredda,33.9,14
+J951,Damiano,Peschke,55197 Charing Cross Plaza,Texas,77050,QBCW142WG,10/5/2021,8:32 AM,T81,4,DU399,Tea - Lemon Green Tea,24.3,15
+K312,Carilyn,Sickert,241 Kenwood Pass,Texas,75185,QNTJ211OU,25/01/2021,1:03 PM,T20,6,SL953,Sugar - Cubes,12.1,11
+O012,Uriel,Jacklin,33993 Northridge Point,Florida,33610,KHTC494MN,15/09/2021,11:42 PM,Z57,1,WY693,Water - San Pellegrino,18.6,14
+O812,Reggi,Diable,87 Mosinee Drive,Virginia,23220,MTBX311EF,28/08/2021,7:15 PM,K16,7,JT041,Raisin - Golden,56.7,14
+B696,Jerrie,Rossi,527 Sunbrook Pass,Texas,78405,SUJN264MF,17/11/2021,11:32 PM,V09,6,VS229,Marzipan 50/50,5.9,10
+H060,Lonni,MacLleese,0965 Prairie Rose Way,Kansas,66215,BOPT352MD,2/6/2021,4:50 PM,H14,5,HK457,Beets,65.7,11
+V400,Humbert,Winram,22 Burning Wood Avenue,New Mexico,87105,ZJUE524VQ,29/01/2021,4:55 PM,T41,8,MB776,Pepper - Cayenne,20.4,6
+J204,Shem,Croutear,53 Clemons Hill,Texas,75049,SXNN718CR,11/1/2021,11:13 AM,F77,1,WI901,Sugar - Palm,2.9,5
+D494,Nadiya,Stanger,56188 Pepper Wood Terrace,Texas,88584,FYZP386BJ,11/11/2021,11:50 AM,L93,2,BK596,Bacardi Breezer - Tropical,13.8,14
+W615,Feliks,Searles,06538 Heath Avenue,California,94544,QCDU766WU,22/09/2021,4:16 PM,G39,3,AY268,Urban Zen Drinks,6.4,6
+P172,Katlin,Cirlos,8 Kensington Pass,Texas,79989,PPKF300WB,22/11/2021,9:43 PM,P30,1,OB968,Apricots - Dried,98.8,13
+F699,Samuele,Gowdy,3 Gateway Way,Pennsylvania,19146,FZQF431LA,28/04/2021,3:00 PM,F46,7,EV874,"Yogurt - Raspberry, 175 Gr",47.8,10
+E881,Zarla,Casebourne,7 Tomscot Street,North Carolina,28242,QGPK147BG,26/10/2021,4:08 PM,H02,10,NH939,Vinegar - Tarragon,83.9,12
+F295,Beniamino,Keese,70 Texas Street,Virginia,23260,HRTP088OB,28/01/2021,9:22 PM,L86,1,CY813,"Veal - Brisket, Provimi, Bone - In",92.9,7
+G023,Jody,Potebury,3 Surrey Avenue,Connecticut,6183,CSHA543NN,25/11/2021,4:09 PM,Z38,10,IK495,Sauce - Alfredo,75,15
+D617,Alyse,Sennett,1 Pawling Lane,Pennsylvania,15286,KTQT851CZ,17/08/2021,8:32 PM,Y77,3,VM584,Cheese - La Sauvagine,58.2,13
+K741,Monte,Mathou,5713 Bunker Hill Circle,Florida,32118,BSKZ970ED,21/09/2021,10:47 PM,C41,8,KT876,Remy Red Berry Infusion,83.9,15
+N125,Sayers,Nafzger,58770 Dahle Avenue,Utah,84135,LXDY821WV,1/6/2021,9:14 AM,O03,9,WT733,Chocolate - Liqueur Cups With Foil,97.2,15
+G719,Othilie,Wichard,79 Havey Way,Connecticut,6726,PWDK741RO,1/2/2021,2:41 PM,K12,1,QY958,Ham - Black Forest,92.3,10
+L192,Susann,Allerton,3 Darwin Avenue,Alabama,35220,ARDF946BY,1/5/2021,9:42 PM,U46,10,CI234,Corn - Mini,59,10
+K320,Cybill,Shavel,45073 Upham Lane,Alabama,35279,LKUK333XS,24/03/2021,3:22 PM,M42,8,HV700,Flour - So Mix Cake White,24.9,14
+F109,Bella,Ramsdell,0146 Norway Maple Center,Florida,33963,PLYE668LO,1/10/2021,1:10 PM,V56,9,RO569,Extract - Rum,48.7,11
+I942,Wallas,MacClure,73 High Crossing Avenue,Michigan,48901,LORX189KQ,15/05/2021,8:01 AM,B16,10,UA179,Wine - Vidal Icewine Magnotta,2.6,12
+E383,Brittni,Medland,94 Raven Circle,Kentucky,40256,FWNC285MD,26/09/2021,11:31 PM,Q25,9,OH665,Icecream Bar - Del Monte,55.1,12
+F891,Vite,Shingfield,58820 Troy Street,Ohio,43635,NZRM473FH,16/11/2021,2:20 PM,O71,7,WD539,"Mushroom - Morels, Dry",96.3,10
+B231,Franzen,Swaite,3 Meadow Ridge Lane,New Mexico,87195,IHDR948LV,1/6/2021,9:13 PM,O40,3,GV965,"Nut - Walnut, Pieces",78.6,11
+F866,Kelley,Scaplehorn,13642 Sunnyside Alley,Georgia,30919,ROSX015RO,25/10/2021,9:38 PM,A22,4,II829,"Iced Tea - Lemon, 340ml",78.1,9
+V032,Otha,Jeannequin,73233 Coolidge Circle,Kansas,66611,NGPX672JG,10/5/2021,8:31 PM,K23,7,ED547,Apricots Fresh,54.4,15
+A876,Winfred,Kennelly,82303 Old Shore Circle,Colorado,80328,OETL269GF,2/6/2021,8:51 PM,M81,6,MN492,Slt - Individual Portions,5.5,13
+A040,Riane,Rosengart,54103 Wayridge Hill,Texas,77050,AAFF878PY,2/10/2021,6:14 PM,N19,1,CL403,"Butter - Salted, Micro",98.9,11
+M749,Sonja,Neumann,9 Fuller Circle,Virginia,22212,EUJD611BW,14/09/2021,7:22 PM,G57,2,FT440,Puree - Mango,47,13
+Q393,Abey,Peasee,5836 Oriole Terrace,Florida,32118,WNDI455VQ,12/9/2021,3:35 PM,H78,6,FB524,Beer - Guiness,99.1,13
+E470,Derrek,Paulack,41242 Arkansas Trail,West Virginia,25362,ERDW616HD,27/02/2021,3:59 PM,U61,3,OZ001,Green Scrubbie Pad H.duty,30.2,8
+O400,Cristal,Pressman,7 Iowa Plaza,Pennsylvania,17405,JTYY669UQ,14/06/2021,5:47 PM,N88,5,FM355,Soup - Cream Of Potato / Leek,22.8,14
+C850,Isac,Cicero,6809 Mayfield Center,Wisconsin,53705,ZVJW165ZL,7/4/2021,8:44 PM,V59,1,ML715,Plums - Red,44.8,7
+Z835,Reeba,Bauman,1 Columbus Way,Florida,32868,OWZQ340NY,17/07/2021,8:32 PM,A22,4,KJ316,Ice Cream Bar - Oreo Cone,70.9,15
+J845,Amara,Stuck,5979 Paget Street,Missouri,64153,XXRV404DZ,16/03/2021,3:04 PM,Z22,10,WU008,Plasticspoonblack,2,11
+P485,Joete,Freyn,9 Mosinee Street,South Carolina,29805,CTID214UV,13/05/2021,10:47 AM,U55,2,WB739,Corn Meal,27.4,13
+O490,Chaim,Mackriell,00 Monica Junction,Ohio,43268,TWLR676VW,28/04/2021,5:25 PM,O29,7,UK358,Wine - Manischewitz Concord,67.8,8
+X097,Minni,Medwell,48912 Northview Avenue,Washington,98158,BDPH664JY,21/03/2021,10:26 AM,X60,3,LD009,Lid Tray - 12in Dome,36.2,8
+K337,Anders,Burnyeat,5 Red Cloud Way,Oregon,97232,BDNH098NU,22/07/2021,6:09 PM,Q56,9,FF363,"Artichokes - Knobless, White",97.4,6
+C041,Hertha,McFater,47576 Monica Hill,New York,10474,CCTZ924JT,15/03/2021,11:57 PM,I28,5,JI117,Carrots - Mini Red Organic,9.7,11
+O311,Maryanne,Romeo,3009 Lakewood Junction,New York,10606,VHJR093HS,19/01/2021,7:22 PM,L68,3,BL599,Bread Foccacia Whole,37.2,10
+V999,Ceil,Heinl,67 Steensland Road,Florida,33018,EHOL182WG,26/08/2021,11:30 PM,J90,10,QW179,"Sauce - Soya, Light",22.5,13
+L602,Celka,Reddell,14089 Ludington Drive,Texas,77505,LRFK622BP,15/06/2021,4:02 PM,E48,7,QC185,Yogurt - French Vanilla,44.9,6
+G787,Hamnet,McNeice,443 Hagan Way,New York,12227,FNUD086VI,27/06/2021,11:00 PM,A22,3,NS115,Paste - Black Olive,68.7,9
+Z996,Rikki,Tourot,09602 Atwood Street,Illinois,60697,ZIWI684DC,11/3/2021,11:36 AM,X07,10,TU579,"Lamb - Racks, Frenched",82.4,13
+U516,Pryce,Kurton,0 Vahlen Crossing,Massachusetts,2109,WNHX586GG,20/09/2021,6:31 PM,W84,7,MU142,Rice - Long Grain,31.8,6
+Q043,Mariele,Chaters,899 Westend Trail,Florida,32885,KBFD475IW,18/10/2021,9:44 PM,P94,1,WG282,Pepper - Jalapeno,5.3,5
+R903,Daphene,Achurch,08 Burning Wood Trail,Washington,98008,ZGBQ807GX,5/10/2021,10:01 PM,A19,9,RQ758,Tea - Earl Grey,76.5,15
+U470,Hewe,Rae,46880 Ridgeview Alley,Florida,32230,CJPR407ZE,3/2/2021,5:07 PM,C77,5,PU660,"Chicken - Wings, Tip Off",76.1,12
+R526,Edwina,Penniell,276 Clarendon Parkway,Georgia,31136,GLTZ640RZ,12/7/2021,2:03 PM,I38,5,OV919,Olive - Spread Tapenade,25.1,7
+F205,Carlye,Matresse,7 Express Plaza,Delaware,19886,GEXZ320QM,6/3/2021,2:02 PM,J91,1,JR757,Cheese - Pont Couvert,46.6,11
+O564,Korney,Tinkham,6923 Burning Wood Drive,Arizona,85732,KVBO093RE,28/02/2021,6:49 PM,U54,4,LC352,Wine - Cava Aria Estate Brut,11.8,7
+I192,Jozef,Josling,71704 Mcbride Court,Colorado,80255,LTTD730YC,5/10/2021,8:57 AM,C78,9,XP041,Olives - Kalamata,48.4,10
+K421,Ottilie,Willmont,73 Ilene Plaza,Texas,79934,DPGY716CZ,18/08/2021,4:51 PM,R18,7,CA803,Curry Paste - Green Masala,43.5,13
+V396,Poul,Stalley,6100 Portage Point,Texas,78285,HYNN798PX,1/11/2021,11:41 PM,R94,7,GC237,Bread Crumbs - Japanese Style,75.9,12
+N882,Wiatt,Normavill,2 Bay Lane,Pennsylvania,19605,WJTI708IG,19/09/2021,9:06 PM,Z56,8,PS085,Shrimp - Black Tiger 16/20,48.1,5
+S811,Ulrich,Markie,1 Crest Line Trail,Georgia,30022,CAVT473SP,24/08/2021,1:10 PM,D34,9,EA784,Flower - Leather Leaf Fern,41.7,5
+W766,Karly,Passfield,79 Waubesa Circle,Georgia,31410,EGYW638JT,30/07/2021,5:54 PM,L05,5,JU935,Cranberries - Fresh,9.8,12
+M561,Carita,Cormode,4 Farwell Pass,Delaware,19725,SJCL235RS,31/05/2021,9:32 PM,J72,7,IZ500,Danishes - Mini Raspberry,49.7,14
+Q725,Rollin,Deane,5 Scott Place,Ohio,45440,PUYB508XL,3/5/2021,6:16 PM,U41,2,VG964,"Pork - Bacon, Sliced",39.5,11
+O033,Earlie,Munkley,78 Hovde Lane,Georgia,30022,XQCY652KS,13/09/2021,9:00 AM,C66,10,IJ972,"Pasta - Orzo, Dry",76.1,13

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1029</width>
+    <height>747</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(255, 239, 226);</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>250</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <property name="rowCount">
+    <number>8</number>
+   </property>
+   <property name="columnCount">
+    <number>5</number>
+   </property>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <column/>
+   <column/>
+   <column/>
+   <column/>
+   <column/>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>440</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Insert</string>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="tableWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>250</y>
+     <width>256</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <property name="rowCount">
+    <number>8</number>
+   </property>
+   <property name="columnCount">
+    <number>5</number>
+   </property>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <column/>
+   <column/>
+   <column/>
+   <column/>
+   <column/>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>440</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Insert</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>-5</y>
+     <width>1031</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 22pt &quot;MS Shell Dlg 2&quot;;
+background-color: rgb(219, 255, 188);
+color: rgb(0, 85, 0);</string>
+   </property>
+   <property name="text">
+    <string>                      Customer Analytical System</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>170</y>
+     <width>461</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>MS Shell Dlg 2</family>
+     <pointsize>10</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+     <underline>true</underline>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 10pt &quot;MS Shell Dlg 2&quot;;
+text-decoration: underline;</string>
+   </property>
+   <property name="text">
+    <string>Which state customer recieved  high avg amount of discount</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>120</y>
+     <width>161</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Analysis : 1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>110</y>
+     <width>131</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Analysis: 2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>495</y>
+     <width>111</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>MS Shell Dlg 2</family>
+     <pointsize>10</pointsize>
+     <weight>9</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Analysis: 3</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>505</y>
+     <width>91</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>MS Shell Dlg 2</family>
+     <pointsize>10</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 10pt &quot;MS Shell Dlg 2&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Analysis: 4</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>630</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Insert</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>640</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Insert</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_7">
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>180</y>
+     <width>511</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>What were the highest selling dates for the retailor?</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_8">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>540</y>
+     <width>511</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>How much  retailor make on avg each item sold by states?</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_9">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>550</y>
+     <width>451</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>what were the highest selling time for the retailor ?</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
